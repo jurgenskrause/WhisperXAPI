@@ -1,0 +1,2 @@
+# WhisperXAPI
+WhisperX with FastAPI
